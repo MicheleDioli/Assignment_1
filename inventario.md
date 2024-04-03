@@ -1,8 +1,9 @@
 2077629
 2080041
-[processori](processori.md)
-[schede_madri](schede_madri.md)
+[processori](componenti/processori.md)
+[schede_madri](componenti/schede_madri.md)
 Elettronica Padovana
 componenti
 periferiche
-[tastiere.md](tastiere.md)
+[tastiere](periferiche/tastiere.md)
+[mouse](periferiche/mouse.md)
